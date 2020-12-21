@@ -11,6 +11,10 @@
     margin: 0 auto;
 }
 
+.bitcoin-img-container {
+    background-image: url('../assets/imgs/bitcoinbaby2x.png');
+}
+
 .plans-container--slider {
     justify-content: center;
 }
